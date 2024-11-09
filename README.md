@@ -26,4 +26,6 @@ In the Mitron Bank Credit Card Expansion, the aim was to diversify offerings and
 
 **Dashboard Glimpse:**
 
-![sc](https://github.com/srinathankolla/strategic-insights-banking-industry/assets/115559003/d4c93b0e-0846-4a02-ab24-c53d6eda7d09)
+*** Cover Page***
+
+![sc](https://github.com/Pranav-S-Bhoge/Mitron-Bank/blob/main/Cover%20page.png)
